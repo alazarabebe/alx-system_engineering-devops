@@ -1,2 +1,2 @@
 #!/bin/bash
-echo S(touch hello)
+echo "$(touch hello)"
